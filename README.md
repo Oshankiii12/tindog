@@ -1,3 +1,3 @@
 # tindog
 
-https://oshankiiii12.github.io/tindog/
+https://oshankiii12.github.io/tindog/
